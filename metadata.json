@@ -1,0 +1,9 @@
+{
+  "name": "AgriAgent - AI Agricultural Companion",
+  "description": "An AI-powered crop advisory system for smart farming, disease diagnosis, and market insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
